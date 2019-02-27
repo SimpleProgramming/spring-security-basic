@@ -1,0 +1,7 @@
+server:
+  port: 9001
+app:
+  security:
+    user-name: user
+    password-text: $2a$04$dSIz4rdSaWWYZ9nooLXEKewSUY3yM5UGMaQN2c6ZjEqwXund0pa1m
+    role: USER
